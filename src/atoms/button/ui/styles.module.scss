@@ -1,0 +1,9 @@
+.button {
+	background: hsl(var(--primary));
+	border: none;
+	outline: none;
+	padding: 0.5rem 1rem;
+	font-size: 1.25rem;
+	border-radius: var(--radius);
+	min-width: 200px;
+}
